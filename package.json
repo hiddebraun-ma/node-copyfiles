@@ -1,0 +1,16 @@
+{
+  "name": "hidde-copyfiles",
+  "version": "1.0.0",
+  "description": "Copy files needed as a dependency",
+  "scripts": {
+    "copy-required": "node ./copy-required-files.js"
+  },
+  "author": "Hidde Braun <h.braun@ma-web.nl>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "1.9.1",
+    "jquery-match-height": "^0.7.2",
+    "popper.js": "^1.16"
+  }
+}

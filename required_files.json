@@ -1,0 +1,14 @@
+[
+  {
+    "source": "./node_modules/bootstrap/dist/js/bootstrap.min.js",
+    "destination": "./web/js/bootstrap.min.js"
+  },
+  {
+    "source": "./node_modules/jquery/jquery.min.js",
+    "destination": "./web/js/jquery.min.js"
+  },
+  {
+    "source": "./node_modules/jquery-match-height/dist/jquery.matchHeight-min.js",
+    "destination": "./web/js/jquery.matchHeight-min.js"
+  }
+]
